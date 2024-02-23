@@ -1,2 +1,2 @@
-# Patrick's workshop slides for COMP6991.
+# Workshop presentation slides for COMP6991
 
